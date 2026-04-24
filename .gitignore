@@ -1,0 +1,18 @@
+# python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# coisas do sistema
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
+.idea/
+*.swp
+
+TESTES.md
